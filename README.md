@@ -6,7 +6,7 @@
 
 ## :notebook_with_decorative_cover: Experience :notebook_with_decorative_cover:
 ✔ [2023.07 ~ 2023.08] NHN Academy Java Classic 과정 이수 <br>
-✔ [2023.09 ~ 2024.06] NHN Academy AIoT Backend 개발자 과정
+✔ [2023.09 ~ 2024.06] NHN Academy AIoT Backend 개발자 과정 이수
 
 
 ## 🛠 Tech Stack 🛠
