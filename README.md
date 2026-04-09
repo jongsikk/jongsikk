@@ -18,5 +18,3 @@
 <br>
 ✔ [2025.06.27] SQLD
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongsikk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
